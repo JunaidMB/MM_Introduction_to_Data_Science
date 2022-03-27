@@ -14,17 +14,17 @@ Finally, there is introduction to statistical thinking and machine learning sect
 
 **NOTE**: 
 
-This course is **NOT** a bootcamp. Most of what you need to learn to be an effective data scientist/ data engineer is available for free online. We believe that most bootcamps and courses prey on eager to learn individuals by making them pay for information which can be found on Youtube. This course is a preliminary course to ground you with skills so you can venture out and make sense of the free resources as you learn.
+This course is **NOT** a bootcamp. Most of what you need to learn to be an effective data scientist or data engineer is available for free online. This is a preliminary course to equip you with skills so you can venture out and make sense of the free resources on your own.
 
-If you do decide to subsequently pursue a more structure bootcamp, paid or unpaid, this course will equip you with the necessary preliminaries to evaluate the skills a particular bootcamp is offering to you. We want to help you think critically about your next steps vs get swept up in the predatory `Machine Learning is the future, learn about it for $5000 here` type marketing. 
+If you do subsequently decide to pursue a more structured bootcamp, this course will give you the necessary preliminaries to assess its value proposition. We want to help you think critically about your next steps vs get swept up in the predatory `Machine Learning is the future, learn about it for $5000 here` type marketing. 
 
 # Why Should you take this Course? 
 
-Being a beginner in a new field is difficult. There are so many places to start and many places offering you courses, bootcamps and books, which can become very confusing and overwhelming. 
+Being a beginner in a new field is difficult. There are so many places to start who are offering you courses, bootcamps and books, which can become very confusing and overwhelming. 
 
 We've found that everyone wants you to give you their money first and then trust them to see you through. We believe this approach is misguided, we want to give you an accurate glimpse of an increasingly exciting field so you can decide if it's for you and how to get started. 
 
-There's no hype, no glossy marketing and no sugarcoating what you need to know or what is expected. Just work and a helpful community.
+There's no hype, no glossy marketing and no sugarcoating around what you need to know or what is expected of you. All we promise is a helpful support structure. 
 
 If you want a guided introduction to this field by people who do it everyday then this is a good way to see if this field is for you.
 
@@ -32,9 +32,9 @@ Here are a list of reasons why you may consider taking this course:
 
 1. It's free!
 
-2. We're not a bootcamp: We want to act as a bridge for you into this field and educate you about what is really out there. Then you can make a more informed choice about all the millions of coursera and Udemy courses that are being put your way. If you know what is important to learn, your research can be more efficient.
+2. We're not a bootcamp: We want to act as a bridge for you into this field and educate you about what is really out there. Then you can make a more informed choice about all the millions of Coursera and Udemy courses that are being put your way. If you know what is important to learn, your research can be more efficient.
 
-3. It's by Muslims: If you're part of the Muslim community sometimes it can be more difficult to get started in a field that doesn't represent your demographic. Some people feel more comfortable initially with people who bring them into a field that have the same values as them, if that's you then we'll be aware of your concerns and sensitivites.
+3. It's by Muslims: If you're part of the Muslim community sometimes it can be more difficult to get started in a field that doesn't represent your demographic. Some people feel more comfortable (at least initially) with people who have the same values as them, if that's you then we'll be aware of your concerns and sensitivites.
 
 4. You're getting access to a community: You don't just get access to the course instructors but also an opportunity to join the Machine Learning community in the Muslamic Makers Slack channel. This channels is full of people who have gone through the initial entry process and can support you in a variety of ways.
 
@@ -72,5 +72,5 @@ We're targeting potential career switchers, complete beginners or those who perf
 
 # Getting Help
 
-Learning is most effective when it's a communal activity. As an alternative to contacting the course instructors (which you should do), please join the [Muslamic Makers Slack](https://muslamicmakers.com/join-our-slack/) community and join the `#ml-learning` channel. In this channel you will have a space to ask your questions and speak to people who have been through the journey you've been through. We're all a friendly bunch!
+Learning is most effective when it's a communal activity. As an alternative to contacting the course instructors (which you should do), please join the [Muslamic Makers Slack](https://muslamicmakers.com/join-our-slack/) community and join the `ml-learning` channel. In this channel you will have a space to ask your questions and speak to people who have been through the journey you've been through. We're all a friendly bunch!
 
