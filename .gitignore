@@ -4,6 +4,6 @@ renv.lock
 .Rprofile
 .DS_Store
 .Rproj.user
-data
-notebooks
+/data
+/notebooks
 scripts
