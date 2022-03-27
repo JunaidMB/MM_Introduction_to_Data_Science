@@ -1,0 +1,9 @@
+muslamic_makers_intro_data.Rproj
+renv
+renv.lock
+.Rprofile
+.DS_Store
+.Rproj.user
+data
+notebooks
+scripts
