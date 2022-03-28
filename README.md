@@ -62,13 +62,15 @@ We're targeting potential career switchers, complete beginners or those who perf
 
 2. Week 1: Introduction to Bash/Git. 
 
-3. Week 2: Introduction to Python Basics.
+3. Week 2: Introduction to Python Basics (requires 2 sessions).
 
-4. Week 3: Exploratory Data Analysis and Basic Statistics.
+4. Week 3: Introduction to Pandas and Seaborn.
 
-5. Week 4: Basic Machine Learning Concepts.
+5. Week 4: Exploratory Data Analysis and Basic Statistics.
 
-6. Machine Learning Real World Example.
+6. Week 5: Basic Machine Learning Concepts.
+
+7. Week 6: Machine Learning Real World Example.
 
 # Getting Help
 
