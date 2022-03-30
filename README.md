@@ -4,13 +4,13 @@ This is the Github Repository that accompanies the Muslamic Makers Introduction 
 
 # What is this Course?
 
-This course is a brief introduction to the field of data science and data engineering. If you've seen the emergence of the field of Machine Learning and Aritifical Intelligence and are confused by the number of bootcamps or potention starting points, then this can serve as a useful introduction.
+This course is a brief introduction to the field of data science and data engineering. If you've seen the hype around Machine Learning and Aritifical Intelligence and are confused by the number of bootcamps or potential starting points, then this can serve as a useful introduction.
 
-We will begin by introducing the field of data science and list the potential roles possible in the industry today. From this, you'll learn if this field really is for you and where you might fit in with respect to your interests.
+We will begin by introducing the field of data science and list the potential roles in the industry today. From this, you'll learn if this field really is for you and where you might fit.
 
-Then we will introduce you to basic programming skills which will be fundamental as you progress in your learning journey no matter which learning pathway you pursue. 
+Then, we will introduce you to basic programming skills which will be fundamental as you progress in your learning journey. 
 
-Finally, there is introduction to statistical thinking and machine learning section where we introduce basic ideas around mathematical modelling and why it can be so useful.
+Finally, there is an introduction to statistical thinking and machine learning section where we introduce basic ideas around mathematical modelling and why it can be so useful.
 
 **NOTE**: 
 
@@ -18,15 +18,13 @@ This course is **NOT** a bootcamp. Most of what you need to learn to be an effec
 
 If you do subsequently decide to pursue a more structured bootcamp, this course will give you the necessary preliminaries to assess its value proposition. We want to help you think critically about your next steps vs get swept up in the predatory `Machine Learning is the future, learn about it for $5000 here` type marketing. 
 
-# Why Should you take this Course? 
+# Why should you take this course? 
 
-Being a beginner in a new field is difficult. There are so many places to start who are offering you courses, bootcamps and books, which can become very confusing and overwhelming. 
+Being a beginner in a new field is difficult. There are so many places who are offering you courses and bootcamps, which can become very confusing when looking for a sensible place to start. 
 
-We've found that everyone wants you to give you their money first and then trust them to see you through. We believe this approach is misguided, we want to give you an accurate glimpse of an increasingly exciting field so you can decide if it's for you and how to get started. 
+We've found that many people want you to give them your money first and then trust them to see you through. We believe this approach is misguided, we want to give you an accurate glimpse of an exciting field so you can decide if it's for you and how to get started. 
 
-There's no hype, no glossy marketing and no sugarcoating around what you need to know or what is expected of you. All we promise is a helpful support structure. 
-
-If you want a guided introduction to this field by people who do it everyday then this is a good way to see if this field is for you.
+There's no hype, no glossy marketing and no sugarcoating around what is expected of you. All we promise is a helpful support structure while you do the hard work. 
 
 Here are a list of reasons why you may consider taking this course:
 
@@ -36,9 +34,9 @@ Here are a list of reasons why you may consider taking this course:
 
 3. It's by Muslims: If you're part of the Muslim community sometimes it can be more difficult to get started in a field that doesn't represent your demographic. Some people feel more comfortable (at least initially) with people who have the same values as them, if that's you then we'll be aware of your concerns and sensitivites.
 
-4. You're getting access to a community: You don't just get access to the course instructors but also an opportunity to join the Machine Learning community in the Muslamic Makers Slack channel. This channels is full of people who have gone through the initial entry process and can support you in a variety of ways.
+4. You're getting access to a community: You don't just get access to the course instructors but also an opportunity to join the Machine Learning community in the Muslamic Makers Slack channel. This channel is full of people who have gone through the initial entry process and can support you in a variety of ways.
 
-5. You'll learn something new and useful even if you decide to never go near Data Science or Machine Learning again: The skills we're teaching are fundamental that will be used whether you work exclusively in Excel or work as an accountant.
+5. You'll learn something new and useful even if you decide to never go near Data Science or Machine Learning again: The skills we're teaching can be used whether you work exclusively in Excel or as an accountant.
 
 # Who is this Course for?
 
