@@ -58,11 +58,11 @@ We're targeting potential career switchers, complete beginners or those who perf
 
 # Lesson Structure
 
-1. Week 0: Introduction to Data Careers. Presentation Slides can be viewed [here](https://junaidmb.github.io/intro_datacareers/#1). 
+1. Week 0: Introduction to Course & introduction to Bash/Git 
 
-2. Week 1: Introduction to Bash/Git. 
+2. Week 1: Introduction to Python Basics. Part 1.
 
-3. Week 2: Introduction to Python Basics (requires 2 sessions).
+3. Week 2: Introduction to Python Basics. Part 2.
 
 4. Week 3: Introduction to Pandas and Seaborn.
 
