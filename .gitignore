@@ -8,3 +8,5 @@ renv.lock
 /notebooks
 /scripts
 .Rhistory
+foo.py
+.python-version
